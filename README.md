@@ -9,7 +9,7 @@
 * REACT   
 
 ### :books:Took a class
-* AWS   
+* [AWS](https://pages.awscloud.com/cloud-in-life-coding-everybody-2020.html)   
 
 
 ### 💬 Ask me about
