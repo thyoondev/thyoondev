@@ -1,4 +1,19 @@
-### Hi there 👋
+## Taehee Yoon
+* :wave:Hi! Welcome to my GitHub place. I'm studying to be a web engineer.
+
+## :computer:Studying
+* JAVA   
+* HTML   
+* CSS   
+* JAVASCRIPT   
+* REACT   
+
+## :books:Took a class
+* AWS   
+
+
+## :mailbox_with_mail:How to contect me
+* email : th.yoon.dev@gmail.com
 
 <!--
 **thyoondev/thyoondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
