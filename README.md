@@ -1,18 +1,18 @@
-## Taehee Yoon
+### Taehee Yoon
 * :wave:Hi! Welcome to my GitHub place. I'm studying to be a web engineer.
 
-## :computer:Studying
+### :computer:Studying
 * JAVA   
 * HTML   
 * CSS   
 * JAVASCRIPT   
 * REACT   
 
-## :books:Took a class
+### :books:Took a class
 * AWS   
 
 
-## :mailbox_with_mail:How to contect me
+### :mailbox_with_mail:How to contect me
 * email : th.yoon.dev@gmail.com
 
 <!--
