@@ -2,10 +2,9 @@
 * :wave:Hi! Welcome to my GitHub place. I'm studying to be a web engineer.
 
 ### 🌱 I’m currently learning
+* [HTML,CSS,JAVASCRIPT](https://github.com/thyoondev/web-study)      
 * [JAVA,JSP,SERVLET,SPRING](https://github.com/thyoondev/java-study)   
 * OracleDatabase
-* [HTML+CSS](https://github.com/thyoondev/web-study)     
-* [JAVASCRIPT](https://github.com/thyoondev/java-study)   
 * [REACT](https://github.com/react-team-study/react-study/tree/master/yoontaehee)   
 * [ALGORITHM](https://github.com/thyoondev/baekjoon_algorithm)
 ### :books:Took a class
