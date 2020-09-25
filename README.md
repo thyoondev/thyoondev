@@ -12,8 +12,10 @@
 * [JAVASCRIPT](https://www.inflearn.com/course/%EC%A7%80%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8/dashboard)
 
 ### 💬 Ask me about
-* email : th.yoon.dev@gmail.com
+* email : th.yoon.dev@gmail.com    
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **thyoondev/thyoondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
