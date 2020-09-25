@@ -2,7 +2,7 @@
 * :wave:Hi! Welcome to my GitHub place. I'm studying to be a web engineer.
 
 ### 🌱 I’m currently learning
-* [JAVA,JSP,SERVLET](https://github.com/thyoondev/java-study)   
+* [JAVA,JSP,SERVLET,SPRING](https://github.com/thyoondev/java-study)   
 * OracleDatabase
 * [HTML+CSS](https://github.com/thyoondev/web-study)     
 * [JAVASCRIPT](https://github.com/thyoondev/java-study)   
