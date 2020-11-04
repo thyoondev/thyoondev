@@ -15,7 +15,7 @@ I value what I bump into and experience[The path where i walked...](https://www.
 * ALGORITHM
 
 ### Interest    
-* Editing videos, Taking photos, Drinking coffee
+* Taking photos, Editing videos, Drinking coffee
 * Writing, Reading, Travel, Experience something new 
 
 
