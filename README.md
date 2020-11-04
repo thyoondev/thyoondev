@@ -5,7 +5,7 @@
   </div>
           
 ### Taehee Yoon
-* :wave:Hi! Welcome to my GitHub place. I'm studying to be a programmer. [The path where i walked...](https://www.notion.so/c6ebd46ae289463ea0531d50097dfc68)
+* :wave:Hi! Welcome to my GitHub place. I'm studying to be a Good programmer. [The path where i walked...](https://www.notion.so/c6ebd46ae289463ea0531d50097dfc68)
 
 ### 🌱 I’m currently learning
 * HTML,CSS,JAVASCRIPT
