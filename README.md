@@ -20,8 +20,11 @@ I value what I bump into and experience[The path where i walked...](https://www.
 
 
 ### 💬 Contact me
+* E-Mail : <th.yoon.dev@gmail.com>
+<!--
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:th.yoon.dev@gmail.com)](mailto:th.yoon.dev@gmail.com)
-</div>
+</div> 
+-->
 
 
 
