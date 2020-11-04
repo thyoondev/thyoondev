@@ -4,8 +4,8 @@
   
   </div>
           
-### Taehee Yoon
-* :wave:Hi! Welcome to my GitHub place. I'm studying to be a Good programmer.       
+### :wave: Taehee Yoon
+* Hi! Welcome to my GitHub place. I'm studying to be a Good programmer.       
 I value what I bump into and experience [The path where i walked...](https://www.notion.so/c6ebd46ae289463ea0531d50097dfc68)
 
 ### 🌱 I’m currently learning
