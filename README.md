@@ -5,7 +5,8 @@
   </div>
           
 ### Taehee Yoon
-* :wave:Hi! Welcome to my GitHub place. I'm studying to be a Good programmer. [The path where i walked...](https://www.notion.so/c6ebd46ae289463ea0531d50097dfc68)
+* :wave:Hi! Welcome to my GitHub place. I'm studying to be a Good programmer.       
+I value what I bump into and experience[The path where i walked...](https://www.notion.so/c6ebd46ae289463ea0531d50097dfc68)
 
 ### 🌱 I’m currently learning
 * HTML,CSS,JAVASCRIPT
@@ -13,9 +14,12 @@
 * OracleDatabase
 * ALGORITHM
 
+### Interest    
+* Editing videos, Taking photos, Drinking coffee
+* Writing, Reading, Travel, Experience something new 
+
 
 ### 💬 Contact me
-* email : th.yoon.dev@gmail.com
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:th.yoon.dev@gmail.com)](mailto:th.yoon.dev@gmail.com)
 </div>
 
