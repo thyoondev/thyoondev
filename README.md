@@ -14,7 +14,7 @@
 * ALGORITHM
 
 
-### 💬 Ask me about
+### 💬 Contact me
 * email : th.yoon.dev@gmail.com    
 
 
