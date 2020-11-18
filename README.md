@@ -5,7 +5,7 @@
  </div>
           
 ### :wave: Taehee Yoon
-* Hi! Welcome to my GitHub place. I'm studying to be a good programmer.       
+* Hi! Welcome to my GitHub place. I'm studying to be a good programmer.   
 I value what I bump into and experience [The path where i walked...](https://www.notion.so/c6ebd46ae289463ea0531d50097dfc68)
 
 ### 🌱 I’m currently learning
@@ -20,7 +20,7 @@ I value what I bump into and experience [The path where i walked...](https://www
 
 
 ### 💬 Contact me
-* E-Mail : <th.yoon.dev@gmail.com>
+* E-Mail : <th.yoon.dev@gmail.com>   
 <!--
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:th.yoon.dev@gmail.com)](mailto:th.yoon.dev@gmail.com)
 </div> 
