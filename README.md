@@ -34,8 +34,9 @@ module.exports = {
       'MySQL',
     ]
   },
-
- <!-- <div>
+```
+ <!--
+ <div>
 
 ### :wave: Taehee Yoon
 * Hi! Welcome to my GitHub place. I'm studying to be a good programmer.
@@ -52,9 +53,6 @@ I value what I bump into and experience [The path where i walked...](https://www
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:th.yoon.dev@gmail.com)](mailto:th.yoon.dev@gmail.com)
 </div>
 -->
-
-
-
 <!--
 **thyoondev/thyoondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -69,4 +67,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
