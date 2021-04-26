@@ -3,59 +3,54 @@
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthyoondev%2Fthyoondev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
  
- 
- ## :information_source: About Me
+ </div>
 
-```js             
-module.exports = {             
-  information: {             
-    name: 'Taehee Yoon',             
-    communication: 1,             
-    mbti: 'ENTJ',             
-    gender: 'male'             
-  },             
-               
-  skils: {             
-    languages: [             
-      'Java',             
-      'Servlet',             
-      'JSP',             
-      'JavaScript',             
-      'TypeScript',             
-      'CSS',             
-    ],             
-    Framework & Library: [             
-      'SpringBoot',             
-      'React',             
-    ],             
-    Database: [             
-      'Oracle',             
-      'MySQL',             
-    ]             
-  },             
-               
-  etc: {             
-    fun_fact: 'HTML is not a Programming Language.'             
-  }             
-}             
-```
+## :information_source: About Me
 
- <!--</div>
-          
+```js
+module.exports = {
+  information: {
+    name: 'Taehee Yoon',
+    communication: 1,
+    mbti: 'ENTJ',
+    gender: 'male'
+  },
+
+  skils: {
+    languages: [
+      'Java',
+      'Servlet',
+      'JSP',
+      'JavaScript',
+      'TypeScript',
+      'CSS',
+    ],
+    Framework & Library: [
+      'SpringBoot',
+      'React',
+    ],
+    Database: [
+      'Oracle',
+      'MySQL',
+    ]
+  },
+
+ <!-- <div>
+
 ### :wave: Taehee Yoon
-* Hi! Welcome to my GitHub place. I'm studying to be a good programmer.      
+* Hi! Welcome to my GitHub place. I'm studying to be a good programmer.
 I value what I bump into and experience [The path where i walked...](https://www.notion.so/c6ebd46ae289463ea0531d50097dfc68)
 
-### 👀 Interest    
-* Taking photos, Editing videos, Drinking coffee    
-* Writing, Reading, Travel, Experience something new 
+### 👀 Interest
+* Taking photos, Editing videos, Drinking coffee
+* Writing, Reading, Travel, Experience something new
 
 
 ### 💬 Contact me
-* E-Mail : <th.yoon.dev@gmail.com>   
+* E-Mail : <th.yoon.dev@gmail.com>
 
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:th.yoon.dev@gmail.com)](mailto:th.yoon.dev@gmail.com)
-</div> 
+</div>
 -->
 
 
@@ -74,3 +69,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```
