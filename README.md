@@ -6,41 +6,41 @@
  
  ## :information_source: About Me
 
-```js
-module.exports = {
-  information: {
-    name: 'Taehee Yoon',
-    communication: 1,
-    mbti: 'ENTJ',
-    gender: 'male'
-  },
-  
-  skils: {
-    languages: [
-      'Java',
-      'Servlet',
-      'JSP',
-      'JavaScript',
-      'TypeScript',
-      'CSS',
-    ],
-    Framework & Library: [
-      'SpringBoot',
-      'React',
-    ],
-    Database: [
-      'Oracle',
-      'MySQL',
-    ]
-  },
-  
-  etc: {
-    fun_fact: 'HTML is not a Programming Language.'
-  }
-}
+```js             
+module.exports = {             
+  information: {             
+    name: 'Taehee Yoon',             
+    communication: 1,             
+    mbti: 'ENTJ',             
+    gender: 'male'             
+  },             
+               
+  skils: {             
+    languages: [             
+      'Java',             
+      'Servlet',             
+      'JSP',             
+      'JavaScript',             
+      'TypeScript',             
+      'CSS',             
+    ],             
+    Framework & Library: [             
+      'SpringBoot',             
+      'React',             
+    ],             
+    Database: [             
+      'Oracle',             
+      'MySQL',             
+    ]             
+  },             
+               
+  etc: {             
+    fun_fact: 'HTML is not a Programming Language.'             
+  }             
+}             
 ```
-<!--
- </div>
+
+ <!--</div>
           
 ### :wave: Taehee Yoon
 * Hi! Welcome to my GitHub place. I'm studying to be a good programmer.      
