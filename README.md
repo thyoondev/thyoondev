@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header)
+
 ## :information_source: About Me
 
 ```js
@@ -30,13 +32,12 @@ export const aboutMe = {
     ]
   },
 ```
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
   <div align=right>
-  
+
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthyoondev%2Fthyoondev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
- 
  </div>
+
  <!--
  <div>
 
@@ -54,6 +55,7 @@ I value what I bump into and experience [The path where i walked...](https://www
 
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:th.yoon.dev@gmail.com)](mailto:th.yoon.dev@gmail.com)
 </div>
+
 -->
 <!--
 **thyoondev/thyoondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
