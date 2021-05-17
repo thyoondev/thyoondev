@@ -17,6 +17,7 @@ export const aboutMe = {
       'JSP',
       'JavaScript',
       'TypeScript',
+      'Dart',
       'CSS',
     ],
     Framework:[
