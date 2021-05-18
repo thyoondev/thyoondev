@@ -22,6 +22,7 @@ export const aboutMe = {
     ],
     Framework:[
       'SpringBoot',
+      'Flutter',
     ],
     Library: [
       'React',
