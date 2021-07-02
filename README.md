@@ -17,12 +17,10 @@ export const aboutMe = {
       'JSP',
       'JavaScript',
       'TypeScript',
-      'Dart',
       'CSS',
     ],
     Framework:[
       'SpringBoot',
-      'Flutter',
     ],
     Library: [
       'React',
