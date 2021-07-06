@@ -12,12 +12,11 @@ export const aboutMe = {
 
   skils: {
     languages: [
+      'JavaScript',
+      'TypeScript',
       'Java',
       'Servlet',
       'JSP',
-      'JavaScript',
-      'TypeScript',
-      'CSS',
     ],
     Framework:[
       'SpringBoot',
