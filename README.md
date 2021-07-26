@@ -19,7 +19,9 @@ export const aboutMe = {
       'JSP',
     ],
     Framework:[
+      'Spring'
       'SpringBoot',
+      'Vert.x',
     ],
     Library: [
       'React',
