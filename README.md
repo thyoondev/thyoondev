@@ -2,35 +2,50 @@
 ## :information_source: About Me
 
 ```js
-export const aboutMe = {
-  information: {
-    name: 'Taehee Yoon',
-    communication: 1,
-    mbti: 'ENTJ',
-    gender: 'male'
-  },
+export const aboutMe = [
+    information: {
+        name: 'Taehee Yoon',
+        gender: 'male',
+        mbti: 'ENTJ',
+        email: 'th.yoon.dev@gmail.com',
+    },
 
-  skils: {
-    languages: [
-      'JavaScript',
-      'TypeScript',
-      'Java',
-      'Servlet',
-      'JSP',
-    ],
-    Framework:[
-      'Spring'
-      'SpringBoot',
-      'Vert.x',
-    ],
-    Library: [
-      'React',
-    ],
-    Database: [
-      'Oracle',
-      'MySQL',
-    ]
-  },
+    skills: {
+        frontend: [
+            'HTML5, CSS3, JS(ES6)',
+            'React',
+            'Typescript',
+            'Redux(React-redux, Redux-saga)',
+            'Webpack',
+            'jest',
+        ],
+        backend: [
+            'Java',
+            'JSP, Servlet',
+            'Spring Boot',
+            'Vert.x',
+            'JPA, MyBatis',
+        ],
+        devops: [
+            'AWS EC2, S3, RDS, CloudFront, Route53',
+            'MySQL, MariaDB, Oracle',
+            'Nginx, Tomcat',
+            'Github Action',
+        ],
+        collaboration: [
+            'Slack, Discord, Cube',
+            'Redmind, GitHub Issue',
+        ],
+        versionControl: [
+            'git',
+            'github, gitlab, bitbucket'
+        ],
+        tools: [
+            'Visual Studio Code',
+            'Spring Tool Suite 4',
+        ]
+    }
+]
 ```
 <!--![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)-->
   <div align=right>
