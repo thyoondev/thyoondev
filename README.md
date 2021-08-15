@@ -9,7 +9,6 @@ export const aboutMe = [
         mbti: 'ENTJ',
         email: 'th.yoon.dev@gmail.com',
     },
-
     skills: {
         frontend: [
             'HTML5, CSS3, JS(ES6)',
