@@ -45,6 +45,7 @@ export const aboutMe = [
         ]
     }
 ]
+
 ```
 <!--![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)-->
   <div align=right>
