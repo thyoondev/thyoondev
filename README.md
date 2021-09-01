@@ -16,33 +16,19 @@ export const aboutMe = [
             'Typescript',
             'Redux(React-redux, Redux-saga)',
             'Webpack',
-            'jest',
         ],
         backend: [
             'Java',
-            'JSP, Servlet',
-            'Spring Boot',
-            'Vert.x',
-            'JPA, MyBatis',
-        ],
-        devops: [
-            'AWS EC2, S3, RDS, CloudFront, Route53',
-            'MySQL, MariaDB, Oracle',
-            'Nginx, Tomcat',
-            'Github Action',
+            'Spring',
         ],
         collaboration: [
-            'Slack, Discord, Cube',
+            'Slack, Discord',
             'Redmind, GitHub Issue',
         ],
         versionControl: [
             'git',
             'github, gitlab, bitbucket'
         ],
-        tools: [
-            'Visual Studio Code',
-            'Spring Tool Suite 4',
-        ]
     }
 ]
 
