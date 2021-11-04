@@ -36,6 +36,8 @@ export const aboutMe = [
 <div align="center">
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thyoondev&show_icons=true&theme=default)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thyoondev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
 
