@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=About%20Me&animation=fadeIn&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=About%20Me&animation=fadeIn&fontSize=70" width="100%"/>
 
 ## :information_source: About Me
 
