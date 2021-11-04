@@ -35,8 +35,8 @@ export const aboutMe = [
 ```
 <div align="center">
 
-<img src = "https://github-readme-stats.vercel.app/api?username=thyoondev&show_icons=true&theme=default&include_all_commits=true" width="45%" height="10%">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thyoondev&layout=compact" width="45%" height="10%">
+<img src = "https://github-readme-stats.vercel.app/api?username=thyoondev&show_icons=true&theme=default&include_all_commits=true" width="45%" height="80px">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thyoondev&layout=compact" width="45%" height="80px">
 
 </div>
 
