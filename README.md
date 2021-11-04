@@ -34,16 +34,10 @@ export const aboutMe = [
 
 ```
 <div align="center">
-<span width="50%">
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thyoondev&show_icons=true&theme=default&include_all_commits=true)
 
-</span>
-<span width="50%">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thyoondev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=thyoondev&show_icons=true&theme=default&include_all_commits=true" width="50%">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thyoondev&layout=compact" width="50%">
 
-</span>    
 </div>
 
 <div align="right">
