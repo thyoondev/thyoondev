@@ -1,4 +1,5 @@
-<!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=About%20Me&animation=fadeIn&fontSize=70)-->
+[header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=About%20Me&animation=fadeIn&fontSize=70)
+
 ## :information_source: About Me
 
 ```js
