@@ -17,12 +17,7 @@ export const aboutMe = [
             'Typescript',
             'React',
             'Redux(React-redux, Redux-saga)',
-<!--             'Webpack', -->
         ],
-<!--         backend: [
-            'Java',
-            'Spring',
-        ], -->
         collaboration: [
             'Slack, Discord',
             'Redmind, GitHub Issue',
