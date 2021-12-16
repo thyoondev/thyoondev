@@ -12,16 +12,17 @@ export const aboutMe = [
     },
     skills: {
         frontend: [
-            'HTML5, CSS3, JS(ES6)',
-            'React',
+            'HTML5, CSS3',
+            'JavaScript',
             'Typescript',
+            'React',
             'Redux(React-redux, Redux-saga)',
-            'Webpack',
+<!--             'Webpack', -->
         ],
-        backend: [
+<!--         backend: [
             'Java',
             'Spring',
-        ],
+        ], -->
         collaboration: [
             'Slack, Discord',
             'Redmind, GitHub Issue',
