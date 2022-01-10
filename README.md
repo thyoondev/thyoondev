@@ -16,7 +16,6 @@ export const aboutMe = [
             'JavaScript',
             'Typescript',
             'React',
-            'Redux(React-redux, Redux-saga)',
         ],
         collaboration: [
             'Slack, Discord',
