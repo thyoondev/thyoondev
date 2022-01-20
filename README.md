@@ -2,6 +2,8 @@
 
 ## :information_source: About Me
 
+web3
+
 ```javascript
 export const aboutMe = [
     information: {
