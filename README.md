@@ -19,12 +19,10 @@ export const aboutMe = [
             'React',
         ],
         collaboration: [
-            'Slack, Discord',
-            'Redmind, GitHub Issue',
+            'Slack, Discord'
         ],
         versionControl: [
-            'git',
-            'github, gitlab, bitbucket'
+            'git'
         ],
     }
 ]
