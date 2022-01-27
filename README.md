@@ -7,8 +7,6 @@
 export const aboutMe = [
     information: {
         name: 'Taehee Yoon',
-        gender: 'male',
-        mbti: 'ENTJ',
         email: 'th.yoon.dev@gmail.com',
     },
     skills: {
