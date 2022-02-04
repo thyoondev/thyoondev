@@ -2,7 +2,6 @@
 
 ## :information_source: About Me
 
-
 ```javascript
 export const aboutMe = [
     information: {
