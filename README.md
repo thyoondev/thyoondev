@@ -2,7 +2,7 @@
 
 ## :information_source: About Me
 
-```javascript
+```js
 export const aboutMe = [
     information: {
         name: 'Taehee Yoon',
