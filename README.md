@@ -2,7 +2,6 @@
 
 ## :information_source: About Me
 :wave:Hi there! I'm **Frontend Developer** diving into JavaScript.    
-And I'm also interested in new technologies.
 
 ## :hammer_and_wrench: Skill
 ```js
