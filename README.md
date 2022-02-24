@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4f94ef&height=200&section=header&text=TaeheeYoon&animation=fadeIn&fontSize=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4f94ef&height=200&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&section=header&text=TaeheeYoon&animation=fadeIn&fontSize=70" width="100%"/>
 
 ## :information_source: About Me
 :wave:Hi there! I'm **Frontend Developer** diving into JavaScript.    
