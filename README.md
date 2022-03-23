@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4f94ef&fontColor=ffffff&height=300&section=header&text=I'm%20Taehee!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20a%20rapidly%20learned,%20growing%20developer!&descAlignY=51&descAlign=62" width="100%"/>
 
-## :information_source: About Me
-:wave:Hi there! I'm **Frontend Developer** diving into JavaScript.    
-
 ## :hammer_and_wrench: Skill
 ```js
 export const aboutMe = [
