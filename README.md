@@ -45,11 +45,23 @@ export const aboutMe = [
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 555 Contributions in the Year 2022
+ > 
+> 📦 203.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 42 Public Repositories 
+ > 
+> 🔑 22 Private Repositories  
+ > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
-🌆 Daytime    234 commits    ████████░░░░░░░░░░░░░░░░░   31.97% 
+🌞 Morning    93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
+🌆 Daytime    230 commits    ███████░░░░░░░░░░░░░░░░░░   31.42% 
 🌃 Evening    288 commits    █████████░░░░░░░░░░░░░░░░   39.34% 
 🌙 Night      121 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.53%
 
@@ -79,7 +91,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2022 23:07:54 UTC
+ Last Updated on 11/06/2022 23:26:02 UTC
 <!--END_SECTION:waka-->
 
 [![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthyoondev%2Fthyoondev&count_bg=%230A54A2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
