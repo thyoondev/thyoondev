@@ -5,6 +5,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src = "https://github-readme-stats.vercel.app/api?username=thyoondev&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true">
 </a>
+
 <!-- BLOG-POST-LIST:START -->
 - [How to change visibility in massive GitHub organizations like EpicGames?](https://velog.io/@thyoondev/How-to-change-visibility-in-massive-GitHub-organizations-like-EpicGames)
 - [고차 함수&lpar;higher order function&rpar;에 대하여](https://velog.io/@thyoondev/%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98higher-order-function%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
