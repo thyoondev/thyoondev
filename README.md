@@ -67,7 +67,8 @@ export const aboutMe = [
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               1 min               █████████████████████████   100.0%
+JavaScript               9 mins              ███████████████████████░░   93.02% 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
 
 ```
 
@@ -84,7 +85,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2022 15:02:09 UTC
+ Last Updated on 15/06/2022 15:03:19 UTC
 <!--END_SECTION:waka-->
 
 [![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthyoondev%2Fthyoondev&count_bg=%230A54A2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
