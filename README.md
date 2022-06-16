@@ -34,16 +34,7 @@ export const aboutMe = [
             'TypeScript',
             'React',
         ],
-        backend : [
-            'NodeJs',
-            'Java',
-            'Solidity'
-        ],
-        devOps : [
-            'AWS',
-            'Doker',
-            'Nginx'
-        ]
+
     }
 ]
 
