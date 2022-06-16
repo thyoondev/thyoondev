@@ -32,9 +32,13 @@ export const aboutMe = [
         frontend : [
             'JavaScript',
             'TypeScript',
-            'React',
+            'React'
         ],
-
+        backend : [
+            'NodeJs',
+            'Java',
+            'Solidity'
+        ]
     }
 ]
 
