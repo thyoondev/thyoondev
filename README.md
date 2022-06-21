@@ -1,4 +1,4 @@
-### Hi there👋 I'm Taehee👨‍💻
+### Hi there👋
 I'm a web developer from the Republic of Korea, who loves open source, and is currently studying block chain in [codestates](https://www.codestates.com/) 
 I love sharing my knowledge with others, and I do that through content creation on [my Blog](https://velog.io/@thyoondev) and Study Group.
 
