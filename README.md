@@ -30,6 +30,8 @@ export const aboutMe = [
     },
     skills: {
         frontend : [
+            'HTML',
+            'CSS',
             'JavaScript',
             'TypeScript',
             'React'
