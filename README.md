@@ -40,6 +40,9 @@ export const aboutMe = [
             'NodeJs',
             'Java',
             'Solidity'
+        ],
+        design : [
+            'Figma'
         ]
     }
 ]
