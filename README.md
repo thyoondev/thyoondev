@@ -65,14 +65,6 @@ export const aboutMe = [
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
