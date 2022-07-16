@@ -28,7 +28,7 @@ export const aboutMe = [
         pronouns : 'he/him',
         discord : 'NEO#0101',
         email : 'th.yoon.dev@gmail.com',
-        language : ['ko_KR', 'ja_JP', 'en_US'],
+        language : ['ko_KR', 'ja_JP', 'en_US']
     },
     skills: {
         frontend : [
