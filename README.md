@@ -25,8 +25,10 @@ I love sharing my knowledge with others, and I do that through content creation 
 export const aboutMe = [
     information: {
         name : 'Taehee Yoon',
-        language : ['ko_KR', 'ja_JP', 'en_US'],
+        pronouns : 'he/him',
+        discord : 'NEO#0101',
         email : 'th.yoon.dev@gmail.com',
+        language : ['ko_KR', 'ja_JP', 'en_US'],
     },
     skills: {
         frontend : [
@@ -34,7 +36,8 @@ export const aboutMe = [
             'CSS',
             'JavaScript',
             'TypeScript',
-            'React'
+            'React',
+            'Redux'
         ],
         backend : [
             'NodeJs',
@@ -42,6 +45,8 @@ export const aboutMe = [
             'Solidity'
         ],
         design : [
+            'Adobe Photoshop',
+            'Adobe Illustrator',
             'Figma'
         ]
     }
