@@ -43,11 +43,11 @@ export const aboutMe = [
 #### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [공개 범위에 따른 블록체인](https://velog.io/@thyoondev/%EA%B3%B5%EA%B0%9C-%EB%B2%94%EC%9C%84%EC%97%90-%EB%94%B0%EB%A5%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
 - [비트코인&lpar;Bitcoin&rpar;과 이더리움&lpar;Ethereum&rpar; 소개](https://velog.io/@thyoondev/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8Bitcoin%EA%B3%BC-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80Ethereum-%EC%86%8C%EA%B0%9C)
 - [자료구조로써의 블록체인&lpar;Blockchain&rpar;](https://velog.io/@thyoondev/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%A1%9C%EC%8D%A8%EC%9D%98-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8Blockchain)
 - [기존 금융 시스템&lpar;CeFi&rpar;의 문제점](https://velog.io/@thyoondev/%EA%B8%B0%EC%A1%B4-%EA%B8%88%EC%9C%B5-%EC%8B%9C%EC%8A%A4%ED%85%9CCeFi%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90)
 - [암호화폐&lpar;Cryptocurrency&rpar;는 화폐인가?](https://velog.io/@thyoondev/%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90Cryptocurrency%EB%8A%94-%ED%99%94%ED%8F%90%EC%9D%B8%EA%B0%80)
-- [컨테이너&lpar;Container&rpar;와 가상 머신&lpar;Virtual Machine&rpar;의 비교](https://velog.io/@thyoondev/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88Container%EC%99%80-%EA%B0%80%EC%83%81-%EB%A8%B8%EC%8B%A0Virtual-Machine%EC%9D%98-%EB%B9%84%EA%B5%90)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🛸 Solved Algorithm Problems
