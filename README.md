@@ -17,9 +17,8 @@ I love sharing my knowledge with others, and I do that through content creation 
 <!-- BLOG-POST-LIST:END -->
 
 #### 🛸 Solved Algorithm Problems
-- [WIP] [LeetCode Solutions](https://github.com/Google-wait/codingtest-study/tree/main/thyoondev)
 - [WIP] [Programmers Solutions](https://github.com/guui-programmers/Programmers-Algorithm/tree/main/thyoondev)
-
+- [WIP] [LeetCode Solutions](https://github.com/Google-wait/codingtest-study/tree/main/thyoondev)
 
 
 #### 👨‍💻 About Me
