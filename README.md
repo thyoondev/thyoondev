@@ -9,11 +9,11 @@ I love sharing my knowledge with others, and I do that through content creation 
 #### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [UTXO VS Account](https://velog.io/@thyoondev/UTXO-VS-Account)
 - [WEB 3.0 BUILDER’S SUMMER HOUSE Review](https://velog.io/@thyoondev/WEB-3.0-BUILDERS-SUMMER-HOUSE-Review)
 - [공개 범위에 따른 블록체인](https://velog.io/@thyoondev/%EA%B3%B5%EA%B0%9C-%EB%B2%94%EC%9C%84%EC%97%90-%EB%94%B0%EB%A5%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
 - [비트코인&lpar;Bitcoin&rpar;과 이더리움&lpar;Ethereum&rpar; 소개](https://velog.io/@thyoondev/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8Bitcoin%EA%B3%BC-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80Ethereum-%EC%86%8C%EA%B0%9C)
 - [자료구조로써의 블록체인&lpar;Blockchain&rpar;](https://velog.io/@thyoondev/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%A1%9C%EC%8D%A8%EC%9D%98-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8Blockchain)
-- [기존 금융 시스템&lpar;CeFi&rpar;의 문제점](https://velog.io/@thyoondev/%EA%B8%B0%EC%A1%B4-%EA%B8%88%EC%9C%B5-%EC%8B%9C%EC%8A%A4%ED%85%9CCeFi%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🛸 Solved Algorithm Problems
