@@ -9,11 +9,11 @@ I love sharing my knowledge with others, and I do that through content creation 
 #### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Metamask에서 계정 및 체인 네트워크 전환 감지하는 방법](https://velog.io/@thyoondev/Metamask%EC%97%90%EC%84%9C-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EC%B2%B4%EC%9D%B8-%EC%A0%84%ED%99%98-%EA%B0%90%EC%A7%80%ED%95%98%EB%8A%94-%EB%B2%95)
 - [CRA에서 Web3 모듈 설치 오류](https://velog.io/@thyoondev/CRA%EC%97%90%EC%84%9C-Web3-%EB%AA%A8%EB%93%88-%EC%84%A4%EC%B9%98-%EC%98%A4%EB%A5%98)
 - [합의 알고리즘&lpar;Consensus Algorithm&rpar;](https://velog.io/@thyoondev/%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98Consensus-Algorithm)
 - [UTXO VS Account](https://velog.io/@thyoondev/UTXO-VS-Account)
 - [WEB 3.0 BUILDER’S SUMMER HOUSE Review](https://velog.io/@thyoondev/WEB-3.0-BUILDERS-SUMMER-HOUSE-Review)
-- [공개 범위에 따른 블록체인](https://velog.io/@thyoondev/%EA%B3%B5%EA%B0%9C-%EB%B2%94%EC%9C%84%EC%97%90-%EB%94%B0%EB%A5%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🛸 Solved Algorithm Problems
