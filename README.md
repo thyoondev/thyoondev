@@ -38,7 +38,7 @@ export const aboutMe = [
             'JavaScript',
             'TypeScript',
             'React',
-            'Redux'
+            'NextJs'
         ],
         backend : [
             'NodeJs',
