@@ -9,11 +9,11 @@ I love sharing my knowledge with others, and I do that through content creation 
 #### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [간단한 투표 시스템 만들기](https://velog.io/@thyoondev/%EA%B0%84%EB%8B%A8%ED%95%9C-%ED%88%AC%ED%91%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [Truffle로 SmartContract 배포하기](https://velog.io/@thyoondev/Truffle%EB%A1%9C-SmartContract-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 - [NFT Marketplace 개발하기](https://velog.io/@thyoondev/NFT-Marketplace-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0)
 - [Metamask에서 계정 및 체인 네트워크 전환 감지하는 방법](https://velog.io/@thyoondev/Metamask%EC%97%90%EC%84%9C-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EC%B2%B4%EC%9D%B8-%EC%A0%84%ED%99%98-%EA%B0%90%EC%A7%80%ED%95%98%EB%8A%94-%EB%B2%95)
 - [CRA에서 Web3 모듈 설치 오류 해결](https://velog.io/@thyoondev/CRA%EC%97%90%EC%84%9C-Web3-%EB%AA%A8%EB%93%88-%EC%84%A4%EC%B9%98-%EC%98%A4%EB%A5%98)
-- [합의 알고리즘&lpar;Consensus Algorithm&rpar;](https://velog.io/@thyoondev/%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98Consensus-Algorithm)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🛸 Solved Algorithm Problems
