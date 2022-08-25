@@ -9,11 +9,11 @@ I love sharing my knowledge with others, and I do that through content creation 
 #### 📚 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [ERC-20 토큰으로 ERC-721 NFT 민팅하기](https://velog.io/@thyoondev/ERC-20-%ED%86%A0%ED%81%B0%EC%9C%BC%EB%A1%9C-ERC-721-NFT-%EB%AF%BC%ED%8C%85%ED%95%98%EA%B8%B0)
 - [이더리움의 동작 방식](https://velog.io/@thyoondev/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80%EC%9D%98-%EB%8F%99%EC%9E%91-%EB%B0%A9%EC%8B%9D)
 - [간단한 투표 시스템 만들기](https://velog.io/@thyoondev/%EA%B0%84%EB%8B%A8%ED%95%9C-%ED%88%AC%ED%91%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [Truffle로 SmartContract 배포하기](https://velog.io/@thyoondev/Truffle%EB%A1%9C-SmartContract-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 - [NFT Marketplace 개발하기](https://velog.io/@thyoondev/NFT-Marketplace-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0)
-- [Metamask에서 계정 및 체인 네트워크 전환 감지하는 방법](https://velog.io/@thyoondev/Metamask%EC%97%90%EC%84%9C-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EC%B2%B4%EC%9D%B8-%EC%A0%84%ED%99%98-%EA%B0%90%EC%A7%80%ED%95%98%EB%8A%94-%EB%B2%95)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🛸 Solved Algorithm Problems
