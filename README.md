@@ -1,5 +1,5 @@
 ### Hi there👋
-I'm a web developer from the Republic of Korea, who loves open source, and is currently studying block chain in [codestates](https://www.codestates.com/) 
+I'm a Blockchain Engineer from the Republic of Korea, who loves open source    
 I love sharing my knowledge with others, and I do that through content creation on [my Blog](https://velog.io/@thyoondev) and Study Group.
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
