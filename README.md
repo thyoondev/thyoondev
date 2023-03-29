@@ -1,6 +1,6 @@
 ### Hi there👋
-I'm a Blockchain Engineer from the Republic of Korea, who loves open source    
-I love sharing my knowledge with others, and I do that through content creation on [my Blog](https://velog.io/@thyoondev) and Study Group.
+I'm a Blockchain/Frontend Engineer from the Republic of Korea, who loves open source.    
+I love sharing my knowledge with others, and I do that through content creation on [my Blog](https://velog.io/@thyoondev) and [Study Group](https://twitter.com/catena_lab)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src = "https://github-readme-stats.vercel.app/api?username=thyoondev&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true">
