@@ -1,45 +1,17 @@
-# Hi there👋
-I'm a Blockchain/Frontend Engineer from the Republic of Korea, who loves open source.    
-I love sharing my knowledge with others, and I do that through content creation on [my Blog](https://velog.io/@thyoondev) and [Study Group](https://twitter.com/catena_lab)
+## About Me
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src = "https://github-readme-stats.vercel.app/api?username=thyoondev&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true">
-</a> -->
+👋 Hi there! I'm a passionate **Frontend Engineer** from the Republic of Korea who loves open source and is dedicated to creating engaging, user-friendly web experiences. I focus on building responsive, modern, and intuitive web applications that seamlessly blend design and functionality.
 
+### 🚀 My Frontend Strengths
+- **Responsive Design** 💻: Crafting seamless experiences across all devices.
+- **Modern JavaScript** ⚡: Expertise in advanced frameworks and libraries for dynamic interfaces.
+- **UI/UX Excellence** 🎨: Designing intuitive, accessible, and aesthetically pleasing user interfaces.
+- **Performance Optimization** 🚀: Building efficient, high-performance applications that scale.
 
-## 👨‍💻 About Me
-```js
-export const aboutMe = [
-    information: {
-        name : 'Taehee Yoon',
-        pronouns : 'he/him',
-        discord : 'NEO#0101',
-        email : 'th.yoon.dev@gmail.com',
-        language : ['ko_KR', 'ja_JP', 'en_US']
-    },
-    skills: {
-        frontend : [
-            'HTML',
-            'CSS',
-            'JavaScript',
-            'TypeScript',
-            'React',
-            'NextJs'
-        ],
-        backend : [
-            'NodeJs',
-            'Java',
-            'Solidity'
-        ],
-        design : [
-            'Adobe Photoshop',
-            'Adobe Illustrator',
-            'Figma'
-        ]
-    }
-]
+I also love sharing my knowledge with the community through content creation. Check out my insights on my [Blog](https://velog.io/@thyoondev)
 
-```
+Let's innovate and build amazing digital experiences together! ✨
+
 
 ## 🏆 Awards & Activities
 
