@@ -15,6 +15,64 @@ Let's innovate and build amazing digital experiences together! ✨
 
 ## 🏆 Awards & Activities
 
+
+### 🏅 Awards & Competitions
+
+#### 🏆 ETH Global Bangkok – Oasis Protocol (2024)  
+**Project:** FanHub  
+**Description:**  
+- 💡 Developed an anonymous social platform leveraging Oasis Sapphire to enable secure, private interactions between creators and fans through a ROFL token-gated community.  
+**Award:** 2nd Place – Oasis Protocol Track: Best Use of Sapphire and/or ROFL  
+[Project Link](https://ethglobal.com/showcase/fanhub-u0rd9)
+
+---
+
+#### 🏆 ETH Global Istanbul – WalletConnect (2023)  
+**Project:** Chat Swap  
+**Description:**  
+- 🤖 Created an interactive trading service utilizing the Open AI API combined with the 1inch Aggregation Protocol for decentralized exchange (DEX) functionalities.  
+**Award:** Innovation Pool Prize – WalletConnect Track  
+[Project Link](https://ethglobal.com/showcase/chat-swap-j4znh)
+
+---
+
+#### 🏆 Ethcon Korea 2023 – Metamask & Taiko (2023)  
+**Project:** Paylink  
+**Description:**  
+- 🔒 Developed a user-centric asset transfer service based on zk blockchain technology.  
+**Awards:**
+- 🥇 Taiko Track Winner – Best dApp (1st Place)
+- 🥉 MetaMask Track Winner – Best dApp Using MetaMask SDK (3rd Place)  
+[Project Link](https://devfolio.co/projects/paylink-bad7) | [Read More](https://medium.com/ethconkorea/announcing-hackathon-winners-of-ethcon-korea-2023-3a32bca2a93e)
+
+---
+
+#### 🏆 ETH Global Paris – Gnosis Chain (2023)  
+**Project:** Gnofrens  
+**Description:**  
+- 🔍 Developed a POAP-based proximity search and incentive system to facilitate smooth reconnections among event participants.  
+**Award:** Bronze Prize – Gnosis Track: Best Use dApp (3rd Place)  
+[Project Link](https://ethglobal.com/showcase/gnofrens-ax7kb)
+
+---
+
+#### 🏆 ETH Global Seoul – Gnosis Chain (2023)  
+**Project:** POM  
+**Description:**  
+- 🤝 Created an NFT-based meet-and-greet certification service designed to maintain continuous connectivity among event participants.  
+**Award:** Gold Prize – Gnosis Track: Most Innovative dApp (1st Place)  
+[Project Link](https://devfolio.co/projects/meet-and-chat-pom-app-4f1c)
+
+---
+
+#### 🏆 Blockchain Challenge for Solving Blockchain Issues (2022)  
+**Organizers:** 과학기술정보통신부, 한국인터넷진흥원 (Ministry of Science and ICT, Korea Internet & Security Agency)  
+**Project:**  
+- 📜 Proposed an innovative solution utilizing NFTs (SBT) to protect freelance copyrights and enhance the ecosystem.  
+**Award:** Special Award – 블로코(BLOCKO) CEO Award
+
+---
+
 ### 👨‍🏫 Mentorship & Presentations
 
 #### Samsung MultiCampus – MultiIT Frontend Developer National Training Program Mentor  
@@ -88,62 +146,6 @@ Let's innovate and build amazing digital experiences together! ✨
 
 ---
 
-### 🏅 Awards & Competitions
-
-#### 🥈 ETH Global Bangkok – Oasis Protocol (2024)  
-**Project:** FanHub  
-**Description:**  
-- 💡 Developed an anonymous social platform leveraging Oasis Sapphire to enable secure, private interactions between creators and fans through a ROFL token-gated community.  
-**Award:** 2nd Place – Oasis Protocol Track: Best Use of Sapphire and/or ROFL  
-[Project Link](https://ethglobal.com/showcase/fanhub-u0rd9)
-
----
-
-#### 🎖️ ETH Global Istanbul – WalletConnect (2023)  
-**Project:** Chat Swap  
-**Description:**  
-- 🤖 Created an interactive trading service utilizing the Open AI API combined with the 1inch Aggregation Protocol for decentralized exchange (DEX) functionalities.  
-**Award:** Innovation Pool Prize – WalletConnect Track  
-[Project Link](https://ethglobal.com/showcase/chat-swap-j4znh)
-
----
-
-#### 🏆 Ethcon Korea 2023 – Metamask & Taiko (2023)  
-**Project:** Paylink  
-**Description:**  
-- 🔒 Developed a user-centric asset transfer service based on zk blockchain technology.  
-**Awards:**
-- 🥇 Taiko Track Winner – Best dApp (1st Place)
-- 🥉 MetaMask Track Winner – Best dApp Using MetaMask SDK (3rd Place)  
-[Project Link](https://devfolio.co/projects/paylink-bad7) | [Read More](https://medium.com/ethconkorea/announcing-hackathon-winners-of-ethcon-korea-2023-3a32bca2a93e)
-
----
-
-#### 🥉 ETH Global Paris – Gnosis Chain (2023)  
-**Project:** Gnofrens  
-**Description:**  
-- 🔍 Developed a POAP-based proximity search and incentive system to facilitate smooth reconnections among event participants.  
-**Award:** Bronze Prize – Gnosis Track: Best Use dApp (3rd Place)  
-[Project Link](https://ethglobal.com/showcase/gnofrens-ax7kb)
-
----
-
-#### 🥇 ETH Global Seoul – Gnosis Chain (2023)  
-**Project:** POM  
-**Description:**  
-- 🤝 Created an NFT-based meet-and-greet certification service designed to maintain continuous connectivity among event participants.  
-**Award:** Gold Prize – Gnosis Track: Most Innovative dApp (1st Place)  
-[Project Link](https://devfolio.co/projects/meet-and-chat-pom-app-4f1c)
-
----
-
-#### 💡 Blockchain Challenge for Solving Blockchain Issues (2022)  
-**Organizers:** 과학기술정보통신부, 한국인터넷진흥원 (Ministry of Science and ICT, Korea Internet & Security Agency)  
-**Project:**  
-- 📜 Proposed an innovative solution utilizing NFTs (SBT) to protect freelance copyrights and enhance the ecosystem.  
-**Award:** Special Award – 블로코(BLOCKO) CEO Award
-
----
   
 *For further details or inquiries, please feel free to reach out or explore the provided links.*
 
