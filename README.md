@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hi there! I'm a passionate **Frontend Engineer** from the Republic of Korea who loves open source and is dedicated to creating engaging, user-friendly web experiences. I focus on building responsive, modern, and intuitive web applications that seamlessly blend design and functionality.
+👋 Hi there! I'm a passionate **Software Engineer** from the Republic of Korea who loves open source and is dedicated to creating engaging, user-friendly web experiences. I focus on building responsive, modern, and intuitive web applications that seamlessly blend design and functionality.
 
 ### 🚀 My Frontend Strengths
 - **Responsive Design** 💻: Crafting seamless experiences across all devices.
