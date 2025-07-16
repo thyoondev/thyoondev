@@ -22,7 +22,7 @@ Let's innovate and build amazing digital experiences together! ✨
 **Project:** Wrld Relief  
 **Description:**  
 - 💡 AI & Blockchain unite to deliver transparent, efficient, and private disaster aid worldwide.  
-**Award:** Best Mini App Honorable Mention 
+**Award:** Best Mini App Honorable Mention        
 [Project Link](https://ethglobal.com/showcase/wrld-relief-etts1)
 
 ---
