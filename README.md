@@ -31,7 +31,7 @@ Let's innovate and build amazing digital experiences together! ✨
 **Project:** FanHub  
 **Description:**  
 - 💡 Developed an anonymous social platform leveraging Oasis Sapphire to enable secure, private interactions between creators and fans through a ROFL token-gated community.  
-**Award:** 2nd Place – Oasis Protocol Track: Best Use of Sapphire and/or ROFL  
+**Award:** 2nd Place – Oasis Protocol Track: Best Use of Sapphire and/or ROFL   
 [Project Link](https://ethglobal.com/showcase/fanhub-u0rd9)
 
 ---
