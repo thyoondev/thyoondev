@@ -20,65 +20,65 @@ Let's innovate and build amazing digital experiences together! ✨
 
 #### 🏆 ETH Global Cannes – World (2025)  
 **Project:** Wrld Relief  
+**Award:** 🎖️ Best Mini App Honorable Mention  
 **Description:**  
-- 💡 AI & Blockchain unite to deliver transparent, efficient, and private disaster aid worldwide.  
-**Award:** Best Mini App Honorable Mention        
+- 💡 Pioneered an AI-driven disaster relief platform integrating blockchain for real-time analysis, privacy-preserving recipient verification (ZKPs, World ID), and transparent crypto donations to optimize global humanitarian aid.       
 [Project Link](https://ethglobal.com/showcase/wrld-relief-etts1)
 
 ---
 
 #### 🏆 ETH Global Bangkok – Oasis Protocol (2024)  
 **Project:** FanHub  
+**Award:**  🥈 2nd Place – Oasis Protocol Track: Best Use of Sapphire and/or ROFL  
 **Description:**  
-- 💡 Developed an anonymous social platform leveraging Oasis Sapphire to enable secure, private interactions between creators and fans through a ROFL token-gated community.  
-**Award:** 2nd Place – Oasis Protocol Track: Best Use of Sapphire and/or ROFL        
+- 💡 Built a privacy-first fan engagement platform leveraging Oasis Sapphire confidential smart contracts and ROFL token gating. Enabled secure, anonymous interactions between creators and fans in a decentralized ecosystem.          
 [Project Link](https://ethglobal.com/showcase/fanhub-u0rd9)
 
 ---
 
 #### 🏆 ETH Global Istanbul – WalletConnect (2023)  
 **Project:** Chat Swap  
+**Award:** 🎖️ Innovation Pool Prize – WalletConnect Track  
 **Description:**  
-- 🤖 Created an interactive trading service utilizing the Open AI API combined with the 1inch Aggregation Protocol for decentralized exchange (DEX) functionalities.  
-**Award:** Innovation Pool Prize – WalletConnect Track  
+- 🤖 Engineered a conversational crypto trading interface integrating OpenAI API with 1inch’s DEX Aggregation Protocol via WalletConnect. Provided users with intuitive, AI-powered asset swaps through chat.
 [Project Link](https://ethglobal.com/showcase/chat-swap-j4znh)
 
 ---
 
 #### 🏆 Ethcon Korea 2023 – Metamask & Taiko (2023)  
 **Project:** Paylink  
-**Description:**  
-- 🔒 Developed a user-centric asset transfer service based on zk blockchain technology.  
 **Awards:**
 - 🥇 Taiko Track Winner – Best dApp (1st Place)
 - 🥉 MetaMask Track Winner – Best dApp Using MetaMask SDK (3rd Place)  
+**Description:**  
+- 🔒 Designed a seamless zk-powered asset transfer system emphasizing user privacy and simplicity. Integrated MetaMask SDK and Taiko’s zk-rollup framework to ensure efficient and secure user experiences.  
 [Project Link](https://devfolio.co/projects/paylink-bad7) | [Read More](https://medium.com/ethconkorea/announcing-hackathon-winners-of-ethcon-korea-2023-3a32bca2a93e)
 
 ---
 
 #### 🏆 ETH Global Paris – Gnosis Chain (2023)  
 **Project:** Gnofrens  
+**Award:** 🥉 Bronze Prize – Gnosis Track: Best Use dApp (3rd Place)  
 **Description:**  
-- 🔍 Developed a POAP-based proximity search and incentive system to facilitate smooth reconnections among event participants.  
-**Award:** Bronze Prize – Gnosis Track: Best Use dApp (3rd Place)  
+- 🔍 Launched a POAP-based incentive and location-aware social discovery tool to enhance participant engagement and re-connection during large-scale events
 [Project Link](https://ethglobal.com/showcase/gnofrens-ax7kb)
 
 ---
 
 #### 🏆 ETH Global Seoul – Gnosis Chain (2023)  
 **Project:** POM  
+**Award:** 🥇 Gold Prize – Gnosis Track: Most Innovative dApp (1st Place)  
 **Description:**  
-- 🤝 Created an NFT-based meet-and-greet certification service designed to maintain continuous connectivity among event participants.  
-**Award:** Gold Prize – Gnosis Track: Most Innovative dApp (1st Place)  
+- 🤝 Created an NFT issuance protocol for authenticating real-world interactions at events. Enabled attendees to mint verifiable “Proof of Meeting” badges via seamless mobile UX.
 [Project Link](https://devfolio.co/projects/meet-and-chat-pom-app-4f1c)
 
 ---
 
 #### 🏆 Blockchain Challenge for Solving Blockchain Issues (2022)  
 **Organizers:** 과학기술정보통신부, 한국인터넷진흥원 (Ministry of Science and ICT, Korea Internet & Security Agency)  
+**Award:** 🎖️ Special Award – 블로코(BLOCKO) CEO Award    
 **Project:**  
 - 📜 Proposed an innovative solution utilizing NFTs (SBT) to protect freelance copyrights and enhance the ecosystem.  
-**Award:** Special Award – 블로코(BLOCKO) CEO Award
 
 ---
 
