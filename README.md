@@ -2,14 +2,6 @@
 
 👋 Hi there! I'm a passionate **Software Engineer** from the Republic of Korea who loves open source and is dedicated to creating engaging, user-friendly web experiences. I focus on building responsive, modern, and intuitive web applications that seamlessly blend design and functionality.
 
-### 🚀 My Frontend Strengths
-- **Responsive Design** 💻: Crafting seamless experiences across all devices.
-- **Modern JavaScript** ⚡: Expertise in advanced frameworks and libraries for dynamic interfaces.
-- **UI/UX Excellence** 🎨: Designing intuitive, accessible, and aesthetically pleasing user interfaces.
-- **Performance Optimization** 🚀: Building efficient, high-performance applications that scale.
-
-I also love sharing my knowledge with the community through content creation. Check out my insights on my [Blog](https://velog.io/@thyoondev)
-
 Let's innovate and build amazing digital experiences together! ✨
 
 
